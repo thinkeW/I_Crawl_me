@@ -2,7 +2,7 @@
  * @Author:  吴信科#fig 
  * @Date: 2019-03-08 22:18:22 
  * @Last Modified by:  吴信科#fig
- * @Last Modified time: 2019-03-09 12:44:21
+ * @Last Modified time: 2019-03-09 13:19:29
  */
 /*
  * 我爬我自己.js
@@ -49,5 +49,3 @@ function getList(id) {
     }
     return json;
 }
-//
-// console.log(getList('list-2'));
